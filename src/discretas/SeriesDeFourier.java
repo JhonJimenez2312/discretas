@@ -5,7 +5,7 @@ import java.math.MathContext;
 
 /**
  *
- * @author Jhon Jimenez
+ * @author Jota31337
  */
 public class SeriesDeFourier {
 
